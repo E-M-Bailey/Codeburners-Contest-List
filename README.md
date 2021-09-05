@@ -1,5 +1,5 @@
 # Codeburners-Contest-List
-A list of past Kattis contests for Codeburners at UT Dallas. This is not guaranteed to be exhaustive, but it is close.
+A list of past Kattis contests for Codeburners at UT Dallas. This is not guaranteed to be exhaustive, but it is close. Last updated September 4, 2021.
 
 ## General Codeburners Contests
 [UTD20s01](https://open.kattis.com/contests/eixczz)  
